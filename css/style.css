@@ -1,15 +1,38 @@
+body {
+    background-color: aliceblue;
+}
 .header {
     position: fixed;
-    margin: 0;
     top: 0;
     background: #3b5998;
     width: 100%;
     height: 45px;
-    text-align: center;
     line-height: 45px;
 }
 .HC {
-    margin: auto auto;
-    text-align: center;
-    
+    padding-left: 335px;
+    padding-top: 2;
+}
+.contain {
+    width: 1020px;
+    height: 100%;
+    padding-left: 335px;
+}
+.CL {
+    left: 0;
+    width: 200px;
+}
+.CM {
+    padding-left: 202px;
+    padding-top: 0px;
+    width: 500px;
+}
+.CR {
+    width: 3150px;
+    height: 100%;
+    padding-left: 704px;
+}
+.messenger {
+    padding-right: 0px;
+    width: 205px;
 }
